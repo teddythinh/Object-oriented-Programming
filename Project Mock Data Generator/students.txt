@@ -1,0 +1,15 @@
+Student: 20127831 - Tran Huu Minh
+GPA = 7.30, Telephone = 0909-888-773
+Email = thminh@student.hcmus.edu.vn
+DOB=17/12/2003
+Address = 8 Nguyen Dinh Chieu, Ward 5, District 3, Ho Chi Minh city
+Student: 20127832 - Nguyen Dieu Linh
+GPA = 9.22, Telephone = 0912-351-718
+Email = thminh@student.hcmus.edu.vn
+DOB = 23/09/2003
+Address = 22 Ngo Thoi Nhiem, Ward 2, District 1, Ho Chi Minh city 
+Student: 20127833 - Ngo Thoi Chanh
+GPA = 8.12, Telephone = 0977-161-237
+Email = ntchanh@student.hcmus.edu.vn
+DOB = 12/06/2003
+Address = 8 Binh Long, Binh Hung Hoa Ward, Binh Tan District, Ho Chi Minh city
