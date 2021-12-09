@@ -73,3 +73,7 @@ None.
 [Youtube](https://youtu.be/mWDuXfzODu0)
 
 Link if you can not press the above button: [https://youtu.be/mWDuXfzODu0](https://youtu.be/mWDuXfzODu0)
+
+### **Class Diagram:**
+
+![MockStudentDataGeneratorClassDiagram](https://user-images.githubusercontent.com/85171754/145435265-5c4c6ba9-5978-4b10-bce5-be3a7e7d7d81.png)
