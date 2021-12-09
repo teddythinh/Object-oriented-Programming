@@ -45,3 +45,7 @@ None.
 ### **Expected grade:**
 
 10.0🥰
+
+### **Class Diagram:**
+
+![GraphicsAreaPerimeterClassDiagram](https://user-images.githubusercontent.com/85171754/145434758-1247dc2c-02ab-4e17-b493-acef833a7d60.png)
