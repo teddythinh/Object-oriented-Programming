@@ -1,0 +1,9 @@
+Rectangle: Width=3.12, Height=3.5
+Circle: Radius=3
+Triangle: A=3, B=4, C=5
+Rectangle: Width=2.16, Height=8
+Circle: Radius=4.1
+Triangle: A=7, B=11, C=16
+Rectangle: Width=8.99, Height=9.88
+Circle: Radius=7.4
+Triangle: A=12, B=5, C=8
