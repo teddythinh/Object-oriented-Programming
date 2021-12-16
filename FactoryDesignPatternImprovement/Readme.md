@@ -49,3 +49,7 @@ None.
 ## **EXPECTED GRADES:**
 
 10.0
+
+## **CLASS DIAGRAM:**
+
+![GraphicObjectPoolClassDiagram](https://user-images.githubusercontent.com/85171754/146382323-f0c8ad3e-665f-4bcd-9e59-7d36da8344be.png)
