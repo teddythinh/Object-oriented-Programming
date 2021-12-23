@@ -50,8 +50,12 @@ None.
 
 ## **WHAT SHOULD BE TAKEN INTO ACCOUNT FOR A BONUS ?**
 
-I have created attack functions in 4 characters in order to make player attack each other.
+I have created attack functions in 4 characters in order to make players attack each other.
 
 ## **EXPECTED GRADES:**
 
 10.0
+
+## **CLASS DIAGRAM:**
+
+![StrategyGameClassDiagram](https://user-images.githubusercontent.com/85171754/147263293-551fc4a8-dcbe-4d56-83e3-1d49dc373785.png)
