@@ -59,3 +59,7 @@ None.
 [Youtube](https://youtu.be/4x8ddQUSVLE)
 
 Link if you can not press the above button: [https://youtu.be/4x8ddQUSVLE](https://youtu.be/4x8ddQUSVLE)
+
+## **CLASS DIAGRAM:**
+
+![EmployeeSalaryClassDiagram](https://user-images.githubusercontent.com/85171754/147831832-6645ea79-79aa-4236-b6d1-3dda2a15e574.png)
