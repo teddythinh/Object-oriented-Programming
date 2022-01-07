@@ -87,6 +87,7 @@ public:
 };
 
 int32_t main() {
+    srand(time(NULL));
     FullnameMock nameStore;
     vector<Fullname> names;
     bool male = true;
