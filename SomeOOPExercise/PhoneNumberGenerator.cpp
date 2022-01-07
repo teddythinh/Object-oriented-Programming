@@ -104,7 +104,7 @@ int main() {
     
     // Generate 10 random phone numbers
     TelephoneMock mock;
-    for(int i = 0; i <= 10; i++) {
+    for(int i = 1; i <= 10; i++) {
         Telephone tel = mock.generateTelephoneNumber();
         cout << tel.toString() << endl;
     }    
