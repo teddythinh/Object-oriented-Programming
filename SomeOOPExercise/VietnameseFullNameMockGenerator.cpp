@@ -7,6 +7,7 @@ DISCLAIMER: THIS PROJECT IS USED VIETNAMESE NAMES SO YOUR CONSOLE MAY NOT SHOW
 #include <vector>
 #include <sstream>
 #include <string>
+#include <ctime>
 
 using namespace std;
 
