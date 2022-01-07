@@ -147,7 +147,7 @@ int32_t main() {
 
     // Create email from people above
     EmailMock emailStore;
-    for(int i = 0; i <= 20; i++) {
+    for(int i = 1; i <= 20; i++) {
         string email = emailStore.next(names[i]);
         cout << email << endl;
     }
