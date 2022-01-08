@@ -15,7 +15,7 @@ This repo contains some of my homework and projects about OOP. Will update more 
 
 | Number | Context | Description |
 | ------ | ------- | ----------- |
-| 1      | [Properties, Constructors, Behaviours](https://github.com/teddythinh/Object-oriented-Programming/blob/main/StarterOOP/source.cpp) | Create Getters, Setters, Constructors, Methods. **(Beginner should know this)**
+| 1      | [Properties, Constructors, Behaviours](https://github.com/teddythinh/Object-oriented-Programming/blob/main/StarterOOP/Property_Constructor_Behaviour.cpp) | Create Getters, Setters, Constructors, Methods. **(Beginner should know this)**
 | 2      | [Dice](https://github.com/teddythinh/Object-oriented-Programming/blob/main/SomeOOPExercise/Dice.cpp) | Create a dice to roll from 1 to 6 points, calculate the total points.
 | 3      | [Phone Number Generator](https://github.com/teddythinh/Object-oriented-Programming/blob/main/SomeOOPExercise/PhoneNumberGenerator.cpp) | Generate some phone numbers with mobile network operators.
 | 4      | [Vietnamese Fullname Generator](https://github.com/teddythinh/Object-oriented-Programming/blob/main/SomeOOPExercise/VietnameseFullNameMockGenerator.cpp) | Generate male and female Vietnamese fullname using some popular available first, middle, last name in Vietnam.
