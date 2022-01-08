@@ -4,7 +4,10 @@ Some of my homework and projects about OOP. Will update more excerises to practi
 
 **JUST ASK MY PERMISSION BEFORE USING. THANKS !** ☺️☺️☺️
 
-## **Contents:**
+## Language uses:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## Contents:
 
 ### Homework and exercises.
 1. [Properties, Constructor, Behaviour](https://github.com/teddythinh/Object-oriented-Programming/blob/main/StarterOOP/source.cpp)
