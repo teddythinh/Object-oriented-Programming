@@ -1,11 +1,12 @@
 # Object-oriented Programming, Semester 1, HCMUS
 
-Some of my homework and projects about OOP.
+Some of my homework and projects about OOP. Will update more excerises to practice . . .
 
-JUST ASK MY PERMISSION BEFORE USING. THANKS ! 😀
+**JUST ASK MY PERMISSION BEFORE USING. THANKS !** ☺️☺️☺️
 
 ## **Contents:**
 
+### Homework and exercises.
 1. [Properties, Constructor, Behaviour](https://github.com/teddythinh/Object-oriented-Programming/blob/main/StarterOOP/source.cpp)
 2. [Dice](https://github.com/teddythinh/Object-oriented-Programming/blob/main/SomeOOPExercise/Dice.cpp)
 3. [Phone Number Generator](https://github.com/teddythinh/Object-oriented-Programming/blob/main/SomeOOPExercise/PhoneNumberGenerator.cpp)
