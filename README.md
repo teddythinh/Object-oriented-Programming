@@ -1,4 +1,5 @@
 # Object-oriented Programming, Semester 1, HCMUS
+![](https://img.shields.io/github/stars/teddythinh/Object-oriented-Programming?style=social)
 
 ## Introduction:
 
