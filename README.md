@@ -31,5 +31,5 @@ This repo contains some of my homework and projects about OOP. Will update more 
 ### **Project:**
 | Number | Context | Description |
 | ------ | ------- | ----------- |
-| 13     | [Project Student generator](https://github.com/teddythinh/Object-oriented-Programming/tree/main/Project%20Mock%20Data%20Generator) | My first project is about read file, generate student with names, gpa, addresses, birthdays, phone numbers, emails.
+| 13     | [Project Student generator](https://github.com/teddythinh/Object-oriented-Programming/tree/main/Project%20Mock%20Data%20Generator) | My first project is about read file, generate student with names, gpa, addresses, birthdays, phone numbers, emails. **(Applying Three-tier Architecture or Three Layered Architecture)**
 | 14     | [Project Employees Salary](https://github.com/teddythinh/Object-oriented-Programming/tree/main/ProjectEmployeeSalary) | My second project is about read file, using inheritance to manage employees, and calculate their salary. **(Applying Factory, Singleton, Prototype, Pool design patterns)**
