@@ -13,30 +13,11 @@ using namespace std;
 class Shape {
 protected:
 	string _shape;
-
-	double _width;
-	double _height;
-
-	double _radius;
-
-	double _side1;
-	double _side2;
-	double _side3;
-
+	
 public:
 	Shape() { _shape = ""; }
 	Shape(string shape) { _shape = shape; }
 	virtual ~Shape() {}
-
-public:
-	virtual void setWidth(double width) { _width = width; }
-	virtual void setHeight(double height) { _height = height; }
-
-	virtual void setRadius(double radius) { _radius = radius; }
-
-	virtual void setSide1(double side1) { _side1 = side1; }
-	virtual void setSide2(double side2) { _side2 = side2; }
-	virtual void setSide3(double side3) { _side3 = side3; }
 
 public:
 	void setShape(string shape) { _shape = shape; }
@@ -253,7 +234,8 @@ public:
 			getline(ss, height, '=');
 			getline(ss, height);
 			if (line.find("Rectangle") != string::npos) {
-				auto rectangle = ShapeFactory::getInstance()->createShape("Rectangle");
+				auto base_ptr = ShapeFactory::getInstance()->createShape("Rectangle");
+                		auto rectangle = dynamic_pointer_cast<Rectangle>(base_ptr);
 				rectangle->setWidth(stod(width));
 				rectangle->setHeight(stod(height));
 				shapes.push_back(rectangle);
@@ -264,7 +246,8 @@ public:
 			getline(ss2, radius, '=');
 			getline(ss2, radius);
 			if (line.find("Circle") != string::npos) {
-				auto circle = ShapeFactory::getInstance()->createShape("Circle");
+				auto base_ptr = ShapeFactory::getInstance()->createShape("Circle");
+          		     	auto circle = dynamic_pointer_cast<Circle>(base_ptr);
 				circle->setRadius(stod(radius));
 				shapes.push_back(circle);
 			}
@@ -278,7 +261,8 @@ public:
 			getline(ss3, side3, '=');
 			getline(ss3, side3);
 			if (line.find("Triangle") != string::npos) {
-				auto triangle = ShapeFactory::getInstance()->createShape("Triangle");
+				auto base_ptr = ShapeFactory::getInstance()->createShape("Triangle");
+              			auto triangle = dynamic_pointer_cast<Triangle>(base_ptr);
 				triangle->setSide1(stod(side1));
 				triangle->setSide2(stod(side2));
 				triangle->setSide3(stod(side3));
