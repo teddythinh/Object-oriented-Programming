@@ -33,10 +33,9 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 | 13     | [Calculate Perimeter And Area Of 3 Shapes](https://github.com/teddythinh/Object-oriented-Programming/tree/main/ReadFileAndCalculateAreaAndPerimeter) | Create 3 shapes: rectangle, circle and triangle using inheritance, read the attributes of 3 shapes and calculate perimeter and area of each shapes.
 | 14     | [Factory, Singleton, Prototype, Pool design patterns](https://github.com/teddythinh/Object-oriented-Programming/tree/main/FactoryDesignPatternImprovement) | The concept is the same as exercise 13 but using Factory, Singleton, Prototype, Pool design patterns. 
 | 15     | [Soldier game hiting each other](https://github.com/teddythinh/Object-oriented-Programming/tree/main/SoldierGame) | Make a game with 3 champions, create 2 teams, decide which team plays first. 
-| 16     | [Dynamic Array](https://github.com/teddythinh/Object-oriented-Programming/blob/main/StarterOOP/DynamicArray.cpp) | Use class to create a dynamic array.
 
 ### **Project:**
 | Number | Context | Description |
 | ------ | ------- | ----------- |
-| 17     | [Project Student generator](https://github.com/teddythinh/Object-oriented-Programming/tree/main/Project%20Mock%20Data%20Generator) | My first project is about read file, generate student with names, gpa, addresses, birthdays, phone numbers, emails. **(Applying Three-tier Architecture or Three Layered Architecture)**
-| 18     | [Project Employees Salary](https://github.com/teddythinh/Object-oriented-Programming/tree/main/ProjectEmployeeSalary) | My second project is about read file, using inheritance to manage employees, and calculate their salary. **(Applying Factory, Singleton, Prototype, Pool design patterns)**
+| 16     | [Project Student generator](https://github.com/teddythinh/Object-oriented-Programming/tree/main/Project%20Mock%20Data%20Generator) | My first project is about read file, generate student with names, gpa, addresses, birthdays, phone numbers, emails. **(Applying Three-tier Architecture or Three Layered Architecture)**
+| 17     | [Project Employees Salary](https://github.com/teddythinh/Object-oriented-Programming/tree/main/ProjectEmployeeSalary) | My second project is about read file, using inheritance to manage employees, and calculate their salary. **(Applying Factory, Singleton, Prototype, Pool design patterns)**
