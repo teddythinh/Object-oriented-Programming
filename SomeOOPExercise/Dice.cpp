@@ -28,17 +28,18 @@ int32_t main() {
     RandomIntegerGenerator rng;
 
     int n = rng.next(3, 8);
-    cout << "There are " << n << " times to dice." << endl;
+    cout << "There are " << n << " times to roll a dice." << endl;
 
     int total = 0;
+    float average = 0;
     for (int i = 0; i < n; i++) {
         int result = d.roll();
         cout << "Time " << i + 1 << ": " << result << endl;
         total += result;
     }
     cout << "Point after " << n << " times is: " << total << endl;
+    average = total / (n * 1.0);
+    cout << "Average point is: " << average << endl;
 
-
-    
     return 0;
 }
