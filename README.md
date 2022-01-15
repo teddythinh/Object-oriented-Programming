@@ -14,7 +14,7 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 
 ## Contents:
 
-### Homework and exercises.
+### Homework and exercises:
 
 | Number | Context | Description |
 | ------ | ------- | ----------- |
