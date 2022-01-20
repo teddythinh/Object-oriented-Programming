@@ -34,9 +34,10 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 | 14     | [Calculate Perimeter And Area Of 3 Shapes](https://github.com/teddythinh/Object-oriented-Programming/tree/main/ReadFileAndCalculateAreaAndPerimeter) | Create 3 shapes: rectangle, circle and triangle using inheritance, read the attributes of 3 shapes and calculate perimeter and area of each shapes.
 | 15     | [Factory, Singleton, Prototype, Pool design patterns](https://github.com/teddythinh/Object-oriented-Programming/tree/main/FactoryDesignPatternImprovement) | The concept is the same as exercise 14 but using Factory, Singleton, Prototype, Pool design patterns. 
 | 16     | [Soldier game hiting each other](https://github.com/teddythinh/Object-oriented-Programming/tree/main/SoldierGame) | Make a game with 3 champions, create 2 teams, decide which team plays first. 
+| 17     | [Check Prime number and Perfect number](https://github.com/teddythinh/Object-oriented-Programming/blob/main/SomeOOPExercise/CheckPrimeAndCheckPerfect.cpp.) | Check if number is prime or number is perfect or not and use regex to check if user input right number or not. **(I commented what is a perfect number in the code)**
 
 ### **Project:**
 | Number | Context | Description |
 | ------ | ------- | ----------- |
-| 17     | [Project Student generator](https://github.com/teddythinh/Object-oriented-Programming/tree/main/Project%20Mock%20Data%20Generator) | My first project is about read file, generate student with names, gpa, addresses, birthdays, phone numbers, emails. **(Applying Three-tier Architecture or Three Layered Architecture)**
-| 18     | [Project Employees Salary](https://github.com/teddythinh/Object-oriented-Programming/tree/main/ProjectEmployeeSalary) | My second project is about read file, using inheritance to manage employees, and calculate their salary. **(Applying Factory, Singleton, Prototype, Pool design patterns)**
+| 1     | [Project Student generator](https://github.com/teddythinh/Object-oriented-Programming/tree/main/Project%20Mock%20Data%20Generator) | My first project is about read file, generate student with names, gpa, addresses, birthdays, phone numbers, emails. **(Applying Three-tier Architecture or Three Layered Architecture)**
+| 2     | [Project Employees Salary](https://github.com/teddythinh/Object-oriented-Programming/tree/main/ProjectEmployeeSalary) | My second project is about read file, using inheritance to manage employees, and calculate their salary. **(Applying Factory, Singleton, Prototype, Pool design patterns)**
