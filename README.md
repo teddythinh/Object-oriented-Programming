@@ -38,7 +38,7 @@ Contributions are welcome. Just contact my email or any social media accounts I 
 | 14     | [Calculate Perimeter And Area Of 3 Shapes](https://github.com/teddythinh/Object-oriented-Programming/tree/main/ReadFileAndCalculateAreaAndPerimeter) | Create 3 shapes: rectangle, circle and triangle using inheritance, read the attributes of 3 shapes and calculate perimeter and area of each shapes.
 | 15     | [Factory, Singleton, Prototype, Pool design patterns](https://github.com/teddythinh/Object-oriented-Programming/tree/main/FactoryDesignPatternImprovement) | The concept is the same as exercise 14 but using Factory, Singleton, Prototype, Pool design patterns. 
 | 16     | [Soldier game hiting each other](https://github.com/teddythinh/Object-oriented-Programming/tree/main/SoldierGame) | Make a game with 3 champions, create 2 teams, decide which team plays first. 
-| 17     | [Check Prime number and Perfect number](https://github.com/teddythinh/Object-oriented-Programming/blob/main/SomeOOPExercise/CheckPrimeAndCheckPerfect.cpp.) | Check if number is prime or number is perfect or not and use regex to check if user input right number or not. **(I commented what is a perfect number in the code)**
+| 17     | [Check Prime number and Perfect number](https://github.com/teddythinh/Object-oriented-Programming/blob/main/SomeOOPExercise/CheckPrimeAndCheckPerfect.cpp) | Check if number is prime or number is perfect or not and use regex to check if user input right number or not. **(I commented what is a perfect number in the code)**
 
 ### **Project:**
 | Number | Context | Description |
