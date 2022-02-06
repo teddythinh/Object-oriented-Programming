@@ -5,7 +5,7 @@
 
 This repo contains some of my OOP assignments and projects.  More exercises for practice will be added in the future . . . 
 
-**NOTE: I'm not sure whether my program is working properly, perhaps there are a few logical bugs, please feel free to contact me to fix these bugs. Thank you so much!**
+**NOTE: I'm not sure whether my program is working properly, perhaps there are a few logical bugs, please feel free to contact me or open issues to fix these bugs. Thank you so much!**
 
 PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺️☺️
 
