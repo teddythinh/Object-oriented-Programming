@@ -40,7 +40,7 @@ Contributions are encouraged. Simply contact me via email or any of the social m
 | 16     | [Soldier game hiting each other](https://github.com/teddythinh/Object-oriented-Programming/tree/main/SoldierGame) | Make a game with 3 champions, create 2 teams, decide which team plays first. 
 | 17     | [Check Prime number and Perfect number](https://github.com/teddythinh/Object-oriented-Programming/blob/main/SomeOOPExercise/CheckPrimeAndCheckPerfect.cpp) | Check if number is prime or number is perfect or not and use regex to check if user input right number or not. **(I commented what is a perfect number in the code)**
 
-### **Project:**
+### **Projects:**
 | Number | Context | Description |
 | ------ | ------- | ----------- |
 | 1     | [Project Student generator](https://github.com/teddythinh/Object-oriented-Programming/tree/main/Project%20Mock%20Data%20Generator) | My first project is about read file, generate student with names, gpa, addresses, birthdays, phone numbers, emails. **(Applying Three-tier Architecture or Three Layered Architecture)**
