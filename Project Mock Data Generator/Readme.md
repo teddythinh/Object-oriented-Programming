@@ -2,10 +2,6 @@
 
 Phạm Huy Cường Thịnh
 
-### **Student's ID:**
-
- 20127335
-
 ### **Any notice on how to compile and run my project?**
 
 - Compiler: g++ 8.1.0 version
@@ -16,14 +12,11 @@ Phạm Huy Cường Thịnh
 
 I also compiled and run my project on Visual Studio Community 2019 version and work successfully so I demonstrated my project on Visual Studio Code for easy viewing.
 
-
 ### **What I have done:**
 
 In the Project 1: Mock data generator, I used the 3 layer architecture to apply for this project.  
 
-<img src="http://techdora.com/wp-content/uploads/2019/04/3LayeredArch.png" width="550" height="300" />
-
-The first layer is data access:
+The first layer is data access
 
 - The data access layer is responsible for reading the data from the database.
   - I used the class **StudentFileIO** to access the data, specifically here is all the students information in the hard-coded file.  
